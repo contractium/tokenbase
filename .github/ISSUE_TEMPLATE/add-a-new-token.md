@@ -21,26 +21,29 @@ Got questions? Join
 * or Telegram chat: https://t.me/ForkDeltaChat
 -->
 
-**Token address:**
+**Token address:** https://etherscan.io/address/0x943aca8ed65fbf188a7d369cfc2bee0ae435ee1b
 
 
-**Issuer's official website:**
+**Issuer's official website:** https://contractium.io/
 
 
 **Description:** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
 
+Contractium helps users deploy smart contract and issue tokens on blockchains easily without technical knowledge & skills
+
 
 **A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. If the confirmation is not visible immediately, include an explanation of how to find it. -->
-
+https://dashboard.contractium.io/user/ico
+(You need to register account, login, finish KYC successfully and then token address is unlocked)
 
 **At least 2 links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
 <!--
 Reviews must include review of project vision, team, milestones, or existing product.
-
 Links should be of at least two distinct kinds, including, but is not limited to: articles in the media, independent blog posts, ICO reviews, third party reporting on established company partnerships, specific comments in BitcoinTalk threads.
 Note:
 * We are looking for substance in reviews. BitcoinTalk announcements and ICO aggregator pages are NOT an acceptable source. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
 * Project's social media channels (Reddit, Twitter, Facebook, Telegram and others) are not acceptable.
 -->
-1. 
-2.
+1. https://medium.com/insights-by-ico-watchdog/contractium-tokengrade-audit-report-7808637419d
+2. https://www.bitmart.com/trade?symbol=CTU_BMX
+3. https://idex.market/eth/contractium 
